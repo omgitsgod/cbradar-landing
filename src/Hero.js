@@ -6,7 +6,7 @@ function Hero() {
     <div className='hero-image'>
       <div className='hero-text'>
         <h1>CBRadar</h1>
-        <p>Find a Citibike from you wrist</p>
+        <p>Find a CitiBike from your wrist</p>
         <a target="_" href='https://play.google.com/store/apps/details?id=com.penchen.cbradar'>
           <img alt='google play store' className='badge' src={badge} />
         </a>
